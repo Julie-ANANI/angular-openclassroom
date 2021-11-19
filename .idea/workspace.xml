@@ -3,8 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="6b4b68d0-8dad-4f62-8b22-cc3a7ff26938" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mon-projet-angular/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/mon-projet-angular/src/app/app.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mon-projet-angular/src/app/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/mon-projet-angular/src/app/app.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mon-projet-angular/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/mon-projet-angular/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mon-projet-angular/src/app/appareil/appareil.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/mon-projet-angular/src/app/appareil/appareil.component.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +46,7 @@
       <option name="presentableId" value="Default" />
       <updated>1637315708062</updated>
       <workItem from="1637315713863" duration="2591000" />
-      <workItem from="1637318800333" duration="4820000" />
+      <workItem from="1637318800333" duration="6205000" />
     </task>
     <servers />
   </component>
